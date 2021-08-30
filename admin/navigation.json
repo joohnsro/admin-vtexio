@@ -1,6 +1,6 @@
 {
-    "section": "analytics",
-    "titleId": "admin-leads.navigation.label",
-    "searchKeyWordsHelpers": "admin-leads.navigation.search.kws",
-    "path": "/admin/leads"
+  "section": "analytics",
+  "titleId": "admin-leads.navigation.label",
+  "searchKeyWordsHelpers": "admin-leads.navigation.search.kws",
+  "path": "/admin/leads"
 }
