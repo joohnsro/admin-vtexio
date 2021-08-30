@@ -1,0 +1,8 @@
+# enum LeadType {
+#     Number,
+#     String
+# }
+
+type Query {
+  helloworld: String
+}
